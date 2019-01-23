@@ -55,7 +55,7 @@ def main(args):
         mean = torch.load('./statistics/cifar10_mean.pt')
         transform = torchvision.transforms.Compose(
         [torchvision.transforms.RandomHorizontalFlip(p=0.5),
-         torchvision.transforms.ToTensor()])
+         torchvisitransforms.ToTensor()])
         (full_dim, mid_dim, hidden) = (3 * 32 * 32, 2000, 4)
         trainset = torchvision.datasets.CIFAR10(root='~/torch/data/CIFAR10',
             train=True, download=True, transform=transform)
