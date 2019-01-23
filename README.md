@@ -11,11 +11,46 @@ The samples are generated from models trained with default parameters.
 
 **MNIST**
 
+_1000 iterations_
+
 ![](https://github.com/fmu2/NICE/blob/master/samples/mnist_bs200_logistic_cp4_md1000_hd5_iter1000.png "MNIST 1000 iterations")
+
+_25000 iterations_
 
 ![](https://github.com/fmu2/NICE/blob/master/samples/mnist_bs200_logistic_cp4_md1000_hd5_iter25000.png "MNIST 25000 iterations")
 
 **Fashion-MNIST**
+
+_1000 iterations_
+
+![](https://github.com/fmu2/NICE/blob/master/samples/fashion-mnist_bs200_logistic_cp4_md1000_hd5_iter1000.png "Fashion-MNIST 1000 iterations")
+
+_25000 iterations_
+
+![](https://github.com/fmu2/NICE/blob/master/samples/fashion-mnist_bs200_logistic_cp4_md1000_hd5_iter25000.png "Fashion-MNIST 25000 iterations")
+
+**SVHN**
+
+_1000 iterations_
+
+![](https://github.com/fmu2/NICE/blob/master/samples/svhn_bs200_logistic_cp4_md2000_hd4_iter1000.png "SVHN 1000 iterations")
+
+_25000 iterations_
+
+![](https://github.com/fmu2/NICE/blob/master/samples/svhn_bs200_logistic_cp4_md2000_hd4_iter25000.png "SVHN 25000 iterations")
+
+**CIFAR-10**
+
+_1000 iterations_
+
+![](https://github.com/fmu2/NICE/blob/master/samples/cifar10_bs200_logistic_cp4_md2000_hd4_iter1000.png "CIFAR-10 1000 iterations")
+
+_25000 iterations_
+
+![](https://github.com/fmu2/NICE/blob/master/samples/cifar10_bs200_logistic_cp4_md2000_hd4_iter25000.png "CIFAR-10 25000 iterations")
+
+## Training
+
 
 
 
